@@ -1,0 +1,28 @@
+{
+  "name": "react-markdown",
+  "author": "Steven Wright",
+  "license": "MIT",
+  "version": "0.1.0",
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0",
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "github-markdown-css": "^2.4.1",
+    "highlightjs": "^9.8.0",
+    "marked": "^0.3.6",
+    "react": "^15.4.2",
+    "react-copy-to-clipboard": "^4.2.3",
+    "react-dom": "^15.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
